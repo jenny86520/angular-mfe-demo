@@ -1,0 +1,6 @@
+[submodule "modules/root"]
+	path = modules/root
+	url = https://github.com/jenny86520/angular-mfe-demo-root.git
+[submodule "modules/layout"]
+	path = modules/layout
+	url = https://github.com/jenny86520/angular-mfe-demo-layout.git
