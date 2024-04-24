@@ -4,3 +4,6 @@
 [submodule "modules/layout"]
 	path = modules/layout
 	url = https://github.com/jenny86520/angular-mfe-demo-layout.git
+[submodule "modules/react-app"]
+	path = modules/react-app
+	url = https://github.com/jenny86520/mfe-demo-react.git
